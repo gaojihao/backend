@@ -25,9 +25,10 @@ public class ListController {
 
             Item item = new Item();
             item.setCreateTime("5555");
-            item.setRecordId(new String(i));
-            item.setTitle("123");
-            item.setThumbUrl("");
+            item.setRecordId(String.valueOf(i));
+            item.setTitle("title"+String.valueOf(i));
+            item.setThumbUrl("https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3261505962,1852331320&fm=26&gp=0.jpg");
+            list.add(item);
         }
 
         order.setList(list);
@@ -37,8 +38,6 @@ public class ListController {
         }else {
             order.setHasMore(true);
         }
-
-
 
 
         return Result.success(order).toJsonString();
