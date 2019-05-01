@@ -9,6 +9,7 @@
         el: '#app',
         data: {
             message: 'Hello Vue!',
+            selected: '外卖',
             groceryList: [
                 { id: 0, text: 'Vegetables' },
                 { id: 1, text: 'Cheese' },
