@@ -1,5 +1,12 @@
-<html>
+<!DOCTYPE html>
+<html lang="zh" class="mobile hairline dpr2" data-dpr="2">
     <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no,minimum-scale=1,user-scalable=0">
+        <meta name="format-detection" content="telephone=no">
+        <meta content="email=no" name="format-detection">
+        <meta name="theme-color" content="#000000">
+        <title>OA账号密码重置</title>
         <link rel="stylesheet" href="index.css">
         <link rel="stylesheet" href="https://unpkg.com/mint-ui/lib/style.css">
     </head>
@@ -16,14 +23,6 @@
                             <mt-tab-container-item id="订单">
                                 <mt-cell v-for="n in 5" :title="'订单 ' + n" />
                             </mt-tab-container-item>
-                            <mt-tab-container-item id="发现">
-                                <mt-cell v-for="n in 7" :title="'发现 ' + n" />
-                            </mt-tab-container-item>
-                            <mt-tab-container-item id="我的">
-                                <div class="page-part">
-                                    <mt-cell v-for="n in 12" :title="'我的 ' + n" />
-                                </div>
-                            </mt-tab-container-item>
                         </mt-tab-container>
                     </div>
 
@@ -36,20 +35,13 @@
                             <img slot="icon" src="../assets/100x100.png">
                             订单
                         </mt-tab-item>
-                        <mt-tab-item id="发现">
-                            <img slot="icon" src="../assets/100x100.png">
-                            发现
-                        </mt-tab-item>
-                        <mt-tab-item id="我的">
-                            <img slot="icon" src="../assets/100x100.png">
-                            我的
-                        </mt-tab-item>
                     </mt-tabbar>
                 </div>
             </template>
         </div>
 
-        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+        <script src="https://venus-pub.oss-cn-beijing.aliyuncs.com/leonid/component/vendor-3.0.0.js"></script>
+        <script src="https://g.alicdn.com/dingding/dingtalk-jsapi/2.3.0/dingtalk.open.js"></script>
         <script src="https://unpkg.com/mint-ui/lib/index.js"></script>
         <script src="index.js"></script>
     </body>
