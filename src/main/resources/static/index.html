@@ -18,7 +18,15 @@
                     <div class="page-wrap">
                         <mt-tab-container class="page-tabbar-container" v-model="selected">
                             <mt-tab-container-item id="外卖">
-                                <mt-cell v-for="n in 10" :title="'餐厅 ' + n" />
+                                <mt-loadmore :top-method="loadTop" ref="loadmore">
+                                    <mt-cell v-for="n in 10" :title="'餐厅 ' + n" />
+                                    <div slot="top" class="mint-loadmore-top">
+                                        <span v-show="topStatus !== 'loading'" :class="{ 'is-rotate': topStatus === 'drop' }">↓</span>
+                                        <span v-show="topStatus === 'loading'">
+            <mt-spinner type="snake"></mt-spinner>
+          </span>
+                                    </div>
+                                </mt-loadmore>
                             </mt-tab-container-item>
                             <mt-tab-container-item id="订单">
                                 <mt-cell v-for="n in 5" :title="'订单 ' + n" />

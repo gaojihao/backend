@@ -21,6 +21,14 @@
         mounted() {
             this.message = ' app 1111'
         },
+
+        methods:{
+
+            loadTop(){
+                this.$refs.loadmore.onTopLoaded();
+            },
+
+        }
     })
 
 
