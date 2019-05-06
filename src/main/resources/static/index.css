@@ -1,16 +1,4 @@
-html, body {
-    margin: 5px;
+html body{
     padding: 0;
+    margin: 0;
 }
-
-.page-tabbar {
-    overflow: hidden;
-    height: 100vh;
-}
-
-.page-wrap {
-    overflow: auto;
-    height: 100%;
-    padding-bottom: 100px;
-}
-
