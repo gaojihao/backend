@@ -13,6 +13,7 @@
         <module>backend-logging</module>
         <module>backend-system</module>
         <module>backend-tools</module>
+        <module>backend-general</module>
     </modules>
 
     <parent>
