@@ -15,6 +15,7 @@
         <module>backend-system</module>
         <module>backend-tools</module>
         <module>backend-common</module>
+        <module>backend-utils</module>
     </modules>
 
     <parent>
