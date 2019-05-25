@@ -10,21 +10,15 @@
         <module name="backend-generator" />
         <module name="backend-logging" />
         <module name="backend-tools" />
-        <module name="backend-utils" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="backend-common" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="backend-common" options="-parameters" />
       <module name="backend-generator" options="-parameters" />
       <module name="backend-logging" options="-parameters" />
       <module name="backend-system" options="-parameters" />
       <module name="backend-tools" options="-parameters" />
-      <module name="backend-utils" options="-parameters" />
     </option>
   </component>
 </project>
