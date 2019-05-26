@@ -6,8 +6,6 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * 获取 HttpServletRequest
- * @author jie
- * @date 2018-11-24
  */
 public class RequestHolder {
 

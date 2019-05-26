@@ -2,10 +2,7 @@ package me.lizhi.mapper;
 
 import java.util.List;
 
-/**
- * @author jie
- * @date 2018-11-23
- */
+
 public interface EntityMapper<D, E> {
 
     /**

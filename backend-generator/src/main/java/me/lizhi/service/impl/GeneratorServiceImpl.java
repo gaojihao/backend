@@ -16,10 +16,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author jie
- * @date 2019-01-02
- */
+
 @Service
 public class GeneratorServiceImpl implements GeneratorService {
 

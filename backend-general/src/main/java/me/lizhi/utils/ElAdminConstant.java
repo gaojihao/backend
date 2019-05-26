@@ -2,8 +2,6 @@ package me.lizhi.utils;
 
 /**
  * 常用静态常量
- * @author jie
- * @date 2018-12-26
  */
 public class ElAdminConstant {
 

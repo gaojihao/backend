@@ -16,7 +16,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * @author lizhi
- * @date 2018-11-24
  */
 @Component
 @Aspect

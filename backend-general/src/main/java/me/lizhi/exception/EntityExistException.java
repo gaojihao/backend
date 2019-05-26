@@ -6,10 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.IntStream;
 
-/**
- * @author jie
- * @date 2018-11-23
- */
+
 public class EntityExistException extends RuntimeException {
 
     public EntityExistException(Class clazz, Object... saveBodyParamsMap) {

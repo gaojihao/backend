@@ -4,10 +4,7 @@ import me.lizhi.domain.GenConfig;
 import me.lizhi.domain.vo.ColumnInfo;
 import java.util.List;
 
-/**
- * @author jie
- * @date 2019-01-02
- */
+
 public interface GeneratorService {
 
     /**

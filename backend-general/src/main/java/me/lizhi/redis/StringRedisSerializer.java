@@ -8,8 +8,6 @@ import java.nio.charset.Charset;
 
 /**
  * 重写序列化器
- *
- * @author /
  */
 public class StringRedisSerializer implements RedisSerializer<Object> {
 

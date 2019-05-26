@@ -8,10 +8,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @author jie
- * @date 2019-01-14
- */
+
 @RestController
 @RequestMapping("api")
 public class GenConfigController {

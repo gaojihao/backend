@@ -18,8 +18,6 @@ import java.util.Map;
 
 /**
  * 代码生成
- * @author jie
- * @date 2019-01-02
  */
 @Slf4j
 public class GenUtil {

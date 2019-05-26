@@ -7,8 +7,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
 
 /**
- * @author
- * @date 2019-01-07
+ *
  */
 @Slf4j
 public class SpringContextHolder implements ApplicationContextAware, DisposableBean {

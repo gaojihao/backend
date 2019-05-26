@@ -23,10 +23,7 @@ import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.JedisPoolConfig;
 import java.time.Duration;
 
-/**
- * @author jie
- * @date 2018-11-24
- */
+
 @Slf4j
 @Configuration
 @EnableCaching

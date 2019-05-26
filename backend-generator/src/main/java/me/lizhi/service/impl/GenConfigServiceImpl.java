@@ -7,10 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.Optional;
 
-/**
- * @author jie
- * @date 2019-01-14
- */
+
 @Service
 public class GenConfigServiceImpl implements GenConfigService {
 

@@ -4,10 +4,7 @@ import me.lizhi.domain.Log;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.springframework.scheduling.annotation.Async;
 
-/**
- * @author jie
- * @date 2018-11-24
- */
+
 public interface LogService {
 
     /**

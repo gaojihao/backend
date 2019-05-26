@@ -7,8 +7,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author jie
- * @date 2018-11-24
+ *
  */
 @Repository
 public interface LogRepository extends JpaRepository<Log,Long>, JpaSpecificationExecutor {
