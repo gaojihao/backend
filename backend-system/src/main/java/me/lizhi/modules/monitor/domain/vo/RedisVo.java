@@ -8,8 +8,7 @@ import javax.validation.constraints.NotBlank;
 import java.io.Serializable;
 
 /**
- * @author jie
- * @date 2018-12-10
+ *
  */
 @Data
 @AllArgsConstructor

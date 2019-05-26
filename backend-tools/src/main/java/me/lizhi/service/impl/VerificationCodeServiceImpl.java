@@ -20,8 +20,7 @@ import java.util.Arrays;
 import java.util.concurrent.*;
 
 /**
- * @author jie
- * @date 2018-12-26
+ *
  */
 @Service
 @Transactional(propagation = Propagation.SUPPORTS, readOnly = true, rollbackFor = Exception.class)

@@ -2,8 +2,7 @@ package me.lizhi.utils;
 
 /**
  * 支付状态
- * @author lizhi
- * @date 2018/08/01 16:45:43
+ *
  */
 public enum  AliPayStatusEnum {
 

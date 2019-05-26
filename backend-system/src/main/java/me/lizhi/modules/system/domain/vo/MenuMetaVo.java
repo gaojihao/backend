@@ -6,7 +6,6 @@ import java.io.Serializable;
 
 /**
  * @author lizhi
- * @date 2018-12-20
  */
 @Data
 @AllArgsConstructor

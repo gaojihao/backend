@@ -11,8 +11,7 @@ import java.io.Serializable;
 import java.util.Set;
 
 /**
-* @author jie
-* @date 2019-03-25
+ *
 */
 @Entity
 @Data

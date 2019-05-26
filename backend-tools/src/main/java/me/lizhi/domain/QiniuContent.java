@@ -9,8 +9,6 @@ import java.sql.Timestamp;
 
 /**
  * 上传成功后，存储结果
- * @author jie
- * @date 2018-12-31
  */
 @Data
 @Entity

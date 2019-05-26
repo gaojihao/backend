@@ -8,8 +8,7 @@ import org.springframework.cache.annotation.Cacheable;
 import org.springframework.scheduling.annotation.Async;
 
 /**
- * @author jie
- * @date 2018-12-26
+ *
  */
 @CacheConfig(cacheNames = "email")
 public interface EmailService {

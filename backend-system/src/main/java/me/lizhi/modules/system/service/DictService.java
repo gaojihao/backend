@@ -7,8 +7,7 @@ import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.Cacheable;
 
 /**
-* @author jie
-* @date 2019-04-10
+ *
 */
 @CacheConfig(cacheNames = "dict")
 public interface DictService {

@@ -11,8 +11,7 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 
 /**
- * @author jie
- * @date 2019-01-07
+ *
  */
 @Component
 public class JobRunner implements ApplicationRunner {

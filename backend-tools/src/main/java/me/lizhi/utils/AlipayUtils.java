@@ -14,8 +14,7 @@ import java.util.Map;
 
 /**
  * 支付宝工具类
- * @author lizhi
- * @date 2018/09/30 14:04:35
+ *
  */
 @Component
 public class AlipayUtils {

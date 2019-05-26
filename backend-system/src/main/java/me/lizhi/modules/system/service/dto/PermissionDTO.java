@@ -7,8 +7,7 @@ import java.sql.Timestamp;
 import java.util.List;
 
 /**
- * @author jie
- * @date 2018-12-03
+ *
  */
 @Data
 public class PermissionDTO implements Serializable{

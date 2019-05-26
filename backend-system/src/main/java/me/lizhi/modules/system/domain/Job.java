@@ -11,8 +11,7 @@ import java.sql.Timestamp;
 import java.io.Serializable;
 
 /**
-* @author jie
-* @date 2019-03-29
+ *
 */
 @Entity
 @Data

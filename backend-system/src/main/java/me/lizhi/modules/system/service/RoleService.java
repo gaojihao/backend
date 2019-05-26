@@ -12,8 +12,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author jie
- * @date 2018-12-03
+ *
  */
 @CacheConfig(cacheNames = "role")
 public interface RoleService {

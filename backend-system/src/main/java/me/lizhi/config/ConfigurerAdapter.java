@@ -18,8 +18,6 @@ import java.util.List;
 /**
  * WebMvcConfigurer
  *
- * @author jie
- * @date 2018-11-30
  */
 @Configuration
 @EnableWebMvc

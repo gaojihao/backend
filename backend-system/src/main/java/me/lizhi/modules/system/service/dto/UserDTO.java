@@ -9,8 +9,7 @@ import java.util.Date;
 import java.util.Set;
 
 /**
- * @author jie
- * @date 2018-11-23
+ *
  */
 @Data
 public class UserDTO implements Serializable {

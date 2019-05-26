@@ -17,8 +17,7 @@ import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @author jie
- * @date 2019-01-07
+ *
  */
 @Slf4j
 @RestController

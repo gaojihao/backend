@@ -8,8 +8,7 @@ import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.Cacheable;
 
 /**
- * @author jie
- * @date 2018-11-23
+ *
  */
 @CacheConfig(cacheNames = "user")
 public interface UserService {

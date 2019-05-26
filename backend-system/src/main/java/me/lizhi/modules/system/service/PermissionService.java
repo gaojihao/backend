@@ -10,8 +10,7 @@ import java.util.Collection;
 import java.util.List;
 
 /**
- * @author jie
- * @date 2018-12-08
+ *
  */
 @CacheConfig(cacheNames = "permission")
 public interface PermissionService {

@@ -20,8 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author jie
- * @date 2018-12-31
+ *
  */
 @Service
 @CacheConfig(cacheNames = "qiNiu")

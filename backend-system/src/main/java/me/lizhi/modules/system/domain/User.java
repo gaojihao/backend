@@ -15,8 +15,7 @@ import java.util.Date;
 import java.util.Set;
 
 /**
- * @author jie
- * @date 2018-11-22
+ *
  */
 @Entity
 @Getter

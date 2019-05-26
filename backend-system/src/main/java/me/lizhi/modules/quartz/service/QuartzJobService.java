@@ -6,8 +6,7 @@ import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.Cacheable;
 
 /**
- * @author jie
- * @date 2019-01-07
+ *
  */
 @CacheConfig(cacheNames = "quartzJob")
 public interface QuartzJobService {

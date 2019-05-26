@@ -9,8 +9,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
-* @author jie
-* @date 2019-03-25
+ *
 */
 @Data
 public class DeptDTO implements Serializable {

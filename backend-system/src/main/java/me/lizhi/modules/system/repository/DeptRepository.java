@@ -9,8 +9,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
-* @author jie
-* @date 2019-03-25
+ *
 */
 public interface DeptRepository extends JpaRepository<Dept, Long>, JpaSpecificationExecutor {
 

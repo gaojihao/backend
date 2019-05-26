@@ -16,8 +16,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * @author jie
- * @date 2018-12-03
+ *
  */
 @RestController
 @RequestMapping("api")

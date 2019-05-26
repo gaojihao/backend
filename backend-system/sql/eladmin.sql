@@ -136,7 +136,7 @@ CREATE TABLE `gen_config` (
 -- ----------------------------
 -- Records of gen_config
 -- ----------------------------
-INSERT INTO `gen_config` VALUES ('1', 'jie', '\0', 'eladmin-system', 'me.lizhi.modules.system', 'E:\\workspace\\me\\eladmin-qt\\src\\views\\system\\dictDetail', 'E:\\workspace\\me\\eladmin-qt\\src\\api');
+INSERT INTO `gen_config` VALUES ('1', 'lizhi', '\0', 'eladmin-system', 'me.lizhi.modules.system', 'E:\\workspace\\me\\eladmin-qt\\src\\views\\system\\dictDetail', 'E:\\workspace\\me\\eladmin-qt\\src\\api');
 
 -- ----------------------------
 -- Table structure for job

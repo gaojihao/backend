@@ -4,8 +4,7 @@ import me.lizhi.domain.VerificationCode;
 import me.lizhi.domain.vo.EmailVo;
 
 /**
- * @author jie
- * @date 2018-12-26
+ *
  */
 public interface VerificationCodeService {
 

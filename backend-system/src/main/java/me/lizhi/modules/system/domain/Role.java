@@ -15,8 +15,7 @@ import java.util.Set;
 
 /**
  * 角色
- * @author jie
- * @date 2018-11-22
+ *
  */
 @Entity
 @Table(name = "role")

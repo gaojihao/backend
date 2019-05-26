@@ -5,8 +5,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * 测试用
- * @author jie
- * @date 2019-01-08
  */
 @Slf4j
 @Component
