@@ -11,5 +11,13 @@
 
     <artifactId>backend-logging</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>me.lizhi</groupId>
+            <artifactId>backend-general</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
