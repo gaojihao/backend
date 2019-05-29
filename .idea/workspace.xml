@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0996c809-08c4-4c7e-96d1-92ff9cd65dc7" name="Default Changelist" comment="" />
+    <list default="true" id="0996c809-08c4-4c7e-96d1-92ff9cd65dc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-general/target/classes/me/lizhi/utils/ThrowableUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend-general/target/classes/me/lizhi/utils/ThrowableUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-generator/backend-generator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-generator/target/classes/me/lizhi/utils/GenUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend-generator/target/classes/me/lizhi/utils/GenUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-logging/backend-logging.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-logging/target/generated-sources/annotations/me/lizhi/service/mapper/LogErrorMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-logging/target/generated-sources/annotations/me/lizhi/service/mapper/LogErrorMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-logging/target/generated-sources/annotations/me/lizhi/service/mapper/LogSmallMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-logging/target/generated-sources/annotations/me/lizhi/service/mapper/LogSmallMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-system/backend-system.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-system/sql/eladmin.sql" beforeDir="false" afterPath="$PROJECT_DIR$/backend-system/sql/eladmin.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-system/target/classes/me/lizhi/modules/monitor/service/impl/RedisServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend-system/target/classes/me/lizhi/modules/monitor/service/impl/RedisServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-system/target/classes/me/lizhi/modules/quartz/utils/ExecutionJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend-system/target/classes/me/lizhi/modules/quartz/utils/ExecutionJob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/DeptMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/DeptMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/DictDetailMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/DictDetailMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/DictMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/DictMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/JobMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/JobMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/MenuMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/MenuMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/PermissionMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/PermissionMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/RoleMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/RoleMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/RoleSmallMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/RoleSmallMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/UserMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-system/target/generated-sources/annotations/me/lizhi/modules/system/service/mapper/UserMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-tools/backend-tools.iml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/backend-tools/target/" />
@@ -37,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/query/UserQueryService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="115">
               <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
             </state>
           </provider>
@@ -46,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/DeptService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="115">
               <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
             </state>
           </provider>
@@ -55,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/DictDetailService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="115">
               <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
             </state>
           </provider>
@@ -64,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/DictService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="115">
               <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
             </state>
           </provider>
@@ -73,7 +96,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/JobService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="115">
               <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
             </state>
           </provider>
@@ -82,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/MenuService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="115">
               <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
             </state>
           </provider>
@@ -91,17 +114,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/PermissionService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="115">
               <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/RoleService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend-system/sql/eladmin.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="599" column="221" lean-forward="true" selection-start-line="599" selection-start-column="221" selection-end-line="599" selection-end-column="221" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -122,10 +163,12 @@
       <find>jie</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/repository/UserRepository.java" />
         <option value="$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/rest/DeptController.java" />
         <option value="$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/rest/DictController.java" />
         <option value="$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/rest/DictDetailController.java" />
@@ -176,7 +219,15 @@
         <option value="$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/RoleService.java" />
         <option value="$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/UserService.java" />
         <option value="$PROJECT_DIR$/backend-system/sql/eladmin.sql" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -186,13 +237,13 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-40" />
-    <option name="y" value="-1177" />
-    <option name="width" value="1465" />
-    <option name="height" value="923" />
+    <option name="x" value="-109" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1750" />
+    <option name="height" value="1008" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -202,7 +253,18 @@
           <expand>
             <path>
               <item name="backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="front-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="backend-system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="backend-system" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,6 +278,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -264,23 +327,25 @@
       <workItem from="1558856844703" duration="10000" />
       <workItem from="1558857162535" duration="1338000" />
       <workItem from="1559053290245" duration="62000" />
+      <workItem from="1559126434896" duration="3064000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20945000" />
+    <option name="totallyTimeSpent" value="24009000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-40" y="-1177" width="1465" height="923" extended-state="0" />
+    <frame x="-109" y="-1057" width="1750" height="1008" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26704147" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22620447" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5051095" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.61702126" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -291,8 +356,9 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.32972324" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.16642335" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.668533" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.16573349" />
+      <window_info anchor="right" id="aiXcoder" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -306,13 +372,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/rest/DeptController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/rest/DictController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -593,13 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend-system/sql/eladmin.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="137" column="31" selection-start-line="137" selection-start-column="31" selection-end-line="137" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -609,49 +661,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/query/UserQueryService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="115">
           <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/DeptService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="115">
           <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/DictDetailService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="115">
           <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/DictService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="115">
           <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/JobService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="115">
           <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/MenuService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="115">
           <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend-system/src/main/java/me/lizhi/modules/system/service/PermissionService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="115">
           <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
         </state>
       </provider>
@@ -660,6 +712,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-system/sql/eladmin.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="599" column="221" lean-forward="true" selection-start-line="599" selection-start-column="221" selection-end-line="599" selection-end-column="221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
