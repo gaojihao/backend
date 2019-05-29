@@ -12,7 +12,6 @@ import javax.persistence.*;
 public class GenConfig {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     /** 包路径 **/

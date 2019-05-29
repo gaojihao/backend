@@ -14,7 +14,6 @@ import java.io.Serializable;
 public class QiniuConfig implements Serializable {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     /**
