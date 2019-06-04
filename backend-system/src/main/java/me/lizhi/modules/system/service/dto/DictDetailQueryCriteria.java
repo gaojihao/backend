@@ -4,8 +4,11 @@ import lombok.Data;
 import me.lizhi.aop.limit.Query;
 
 @Data
-public class CommonQueryCriteria {
+public class DictDetailQueryCriteria {
 
     @Query(type = Query.Type.INNER_LIKE)
-    private String name;
+    private  String label;
+
+    @Query(propName = "name", joinName = "dict")
+    private String dictName;
 }
